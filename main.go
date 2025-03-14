@@ -15,4 +15,5 @@ func main()  {
     fmt.Println(message)
 
     study.VariablesExample()
+    study.FunctionExample()
 }
