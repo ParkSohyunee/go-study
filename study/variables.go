@@ -12,7 +12,7 @@ func VariablesExample(){
 		  Master = "MasterCard"
 		  Amex = "American Express"
 		)
-    fmt.Println(Visa, Master, Amex)
+        fmt.Println(Visa, Master, Amex)
 	
 		// 2. Variables
 		var name1 string = "sohyun"
