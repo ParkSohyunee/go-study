@@ -16,4 +16,6 @@ func main()  {
 
     study.VariablesExample()
     study.FunctionExample()
+
+    study.Loop()
 }
